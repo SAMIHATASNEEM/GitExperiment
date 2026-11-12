@@ -1,1 +1,5 @@
-samiha
+Hi, This is my first Git experiment.
+My name is Samiha Tasneem.
+My email is samihatasneem3@gmail.com
+thank you 
+This is an update made in newbranch.
